@@ -20,3 +20,12 @@ sslibre sha256 "string"
 It supports SHA512
 Usage:
 sslibre sha512 "string"
+
+# encryption
+It supports encryption
+Usage:
+sslibre encrypt "string"
+
+It supports decrypt
+Usage:
+sslibre decrypt "string"
