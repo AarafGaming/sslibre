@@ -8,6 +8,10 @@ It supports numbers
 Usage:
 sslibre rand *length*
 
+It supports base64 (It is an n-length number translated to base64)
+Usage:
+sslibre rand *length* base64
+
 It supports outputting the bytes
 Usage:
 sslibre rand *length* raw
